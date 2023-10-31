@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<EchoLabware>
+     <destinationplates>
+          <plateinfo platetype="EnduraF96_cge_v1.0.0" plateformat="EnduraF96_cge_v1.0.0" usage="DEST" manufacturer="Applied Biosciences and Constantine Evans" lotnumber="" partnumber="" rows="8" cols="12" location="None" a1offsetx="14380" a1offsety="11240" centerspacingx="9000" centerspacingy="9000" plateheight="16000" skirtheight="2410" wellwidth="3800" welllength="3800" wellcapacity="80" bottominset="0" centerwellposx="103016" centerwellposy="42601.9" dropvolume="2.5" />
+     </destinationplates>
+</EchoLabware>

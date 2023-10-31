@@ -1,0 +1,34 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "short-plate-both": {
+            "$fn": "64",
+            "base_thickness": "0.40000000000000002",
+            "bottom_multiple": "3",
+            "inside_tolerance": "0.20000000000000001",
+            "plate_flange_height": "2.4100000000000001",
+            "plate_max_height": "15",
+            "wall_multiple": "3"
+        },
+        "short-plate-top": {
+            "$fn": "64",
+            "base_thickness": "0.40000000000000002",
+            "bottom_multiple": "3",
+            "include_components": "top",
+            "inside_tolerance": "0.20000000000000001",
+            "plate_flange_height": "2.4100000000000001",
+            "plate_max_height": "15",
+            "wall_multiple": "3"
+        },
+        "short-plate-bottom": {
+            "$fn": "64",
+            "base_thickness": "0.40000000000000002",
+            "bottom_multiple": "3",
+            "include_components": "bottom",
+            "inside_tolerance": "0.20000000000000001",
+            "plate_flange_height": "2.4100000000000001",
+            "plate_max_height": "15",
+            "wall_multiple": "3"
+        }
+    }
+}
